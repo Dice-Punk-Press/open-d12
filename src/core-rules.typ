@@ -3,6 +3,8 @@
 == Introduction
 #text(style:"italic")[Open d12 is a rules system for creating table top role playing games. It is not a game in itself but a set of rules that can be used to create a wide variety of games. The rules are designed to be simple and flexible, allowing players and narrators to create and play games in a wide variety of settings and genres.
 
+The core rules are minimal but complete. There are number of extensions that can be added to the core rules to create more complex and detailed games.
+
 The best way to think of Open d12 is as a set of recipes for creating games where some of the ingredients will need to be decided by the authors.]
 
 
