@@ -7,9 +7,12 @@ The core rules are minimal but complete. There are number of extensions that can
 
 The best way to think of Open d12 is as a set of recipes for creating games where some of the ingredients will need to be decided by the authors.]
 
-
 #columns(2)[
 == Definitions
+/ Setting: the world in which the game takes place, including the
+  culture, technology, geography and history of the world
+/ Scope: the breadth of roles and activities that the players will
+  be able to take on in the game
 / d12: a 12 sided die
 / Narrator: the Narrator is the person who facilitates the game
 / Characters: players create and take on the role of characters in the game
@@ -34,9 +37,27 @@ The best way to think of Open d12 is as a set of recipes for creating games wher
 
 = Game Rules
 To create a game using Open d12 you will need to decide on the following:
-- The setting of the game
+- The *setting* and *scope* of the game
 - The *skill groups* and *skills* that will be used when creating characters
 - Which, if any, extensions you are using
+
+== Setting and Scope
+The *setting* and *scope* inform everything else. Being clear
+about the setting and scope will help you to make decisions
+about how to implement the rules and make the game easier to
+design, facilitate and play.
+
+*Example:* _If you pick a steam-punk fantasy world as your
+setting think about whether the scope of the game will be 
+focused on anyone from that world or focused on the
+people who crew and maintain the airships that are the primary
+form of transport._
+
+Broader scopes are not necessarily better. A more focused scope
+allows for clearer mechanics and story telling. However, it's
+possible not everyone will want to play a game with a very
+specific combination of setting and scope. At the end of the day
+it's import to focus on what you will enjoy creating.
 
 == Skill Groups
 In open d12 characters have a number of *skill groups*. These represent a character's broad areas of expertise. When creating a character players invest points into these *skill groups* to represent their character's abilities. The points invested into a *skill group* typically determine the *skill level* for all of the skills belonging to that group.
@@ -111,13 +132,45 @@ In the core version of the rules each character has three *chances* to avoid ser
 === Regaining chances
 The *Narrator* may allow characters to regain *chances* by resting, healing or through other in-game actions.
 
+== Non-player characters
+...
+
+== Items
+
 == Starting the game
-to come...
+
+- Ensure all players understand the basics of the rules and have created their characters
+- Establish a story hook for each character, known only to the player of that character
+- Establish any ground rules for the game (for example, how long the game will last, what is and isn't allowed in the game, etc)
+- Introduce the players
+- Introduce the setting
+- Determine if it is appropriate to introduce the characters (do they know each other before the start of the game)
+
+=== Story hooks
+A story hook is a reason for a character to act. In shorter
+games the hooks tend to be obvious and immediate, in longer games they may be more subtle and complex. The *Narrator* should provide at least one story hook for each character to give them a reason to act and to provide a source of challenge, story-conflict and tension.
 
 == Core gameplay loop
-to come...
+1. The *Narrator* establishes which characters are present in
+  the scene and describes the world around them, including any non-player
+  characters who may be present and what they are doing.
+2. The *players* describe what their characters are attempting
+  to do and how they are attempting to do it or ask the
+  *Narrator* questions about the scene.
+3. The *Narrator* continues the plot, either by sharing more information
+  with the players or by asking for a roll. If a roll is required
+  the Narrator also determines the skill being used and the difficulty
+  of the roll.
+4. The *players* react to this new information and decide what
+  their characters are going to do next, moving the story forward.
+5. Start again from 1.
 
 == Ending the game
-to come...
+The game ends when the players have achieved their goals or lost
+all of their chances.
 
+When the game ends the *Narrator* should provide players with a
+sense of closure and an opportunity to reflect on the game. For example,
+they might describe what happens to key non-player characters and how
+the players actions have impacted the larger game world.
 ]
