@@ -1,5 +1,7 @@
 = Open D12 Core Rules
 
+#set heading(level: 1, numbering: "1.1)")
+
 == Introduction
 #text(style:"italic")[Open d12 is a rules system for creating
 table top role playing games. It is not a game in itself but a
@@ -15,6 +17,8 @@ complex and detailed games.
 The best way to think of Open d12 is as a set of recipes for
 creating games where some of the ingredients will need to be
 decided by the authors.]
+
+#outline(indent: auto)
 
 #columns(2)[
 == Definitions
@@ -288,6 +292,42 @@ carrying and using.
 The *Narrator* may award bonus dice (or penalty dice) for having
 the right (or wrong) tools for the job. Some things should be
 impossible or very difficult to do without the right tools.
+
+== Opposed rolls and combat
+If two characters are trying to achieve opposing goals then the
+*Narrator* may call for an *opposed roll*. In this case both
+characters make a *roll* and the character with the lowest
+*result* that is also a *success* wins.
+
+Opposed roles may use the same *skill* or different *skills*,
+depending on the situation.
+
+If both characters fail the *roll* then the *Narrator* should
+resolve the situation in a way that makes sense for the game.
+
+=== Combat
+In the core rules combat is a special case of an *opposed roll*
+where one character (the attacker) is trying to inflict damage
+on another (the defender) and reduce that defender's *chances*
+by one.
+
+Depending on the situation surrounding the roll the defending
+character may be able to make a *roll* to avoid the damage.
+Typically if the defender knows about the attack and is
+sufficiently mobile then they will be able to make a *roll* to
+defend themselves.
+
+*Example:* _In our simple 'sword and sorcery' example a goblin
+non player character attacks a player character. Both characters
+have seen each other and are ready for battle. The Narrator
+rolls the goblin's attack skill and the player rolls their
+character's defense skill. If both rolls succeed then the lowest
+roll 'wins'._
+
+Depending on the scope and setting of the game it may be
+necessary to decide which skills can and cannot be used to
+defend against each other. For example, could a _defense_ skill
+be used to defend against _magic_?
 
 = Running the game
 == Starting the game
