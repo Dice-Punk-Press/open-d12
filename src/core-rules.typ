@@ -1,6 +1,20 @@
+#set page(
+  paper: "a4",
+  header: [
+    #set text(8pt)
+    Open D12 | Core Rules | v0.0.1
+    #h(1fr)Feedback: https://github.com/dice-punk-press/open-d12/issues
+  ]
+)
+
 = Open D12 Core Rules
 
-#set heading(level: 1, numbering: "1.1)")
+== Alpha Release v0.0.1
+This is an early release of the core rules. Everything works but
+we're actively collecting feedback and improving things. There
+may be big changes to come. Check the feedback link in the top
+corner for the latest updates or to leave feedback. Thank you,
+your feedback makes the game better.
 
 == Introduction
 #text(style:"italic")[Open d12 is a rules system for creating
@@ -19,7 +33,7 @@ creating games where some of the ingredients will need to be
 decided by the authors.]
 
 #outline(indent: auto)
-
+#pagebreak()
 #columns(2)[
 == Definitions
 / Setting: the world in which the game takes place, including
@@ -45,15 +59,10 @@ decided by the authors.]
 / Fun: in open d12 fun comes from exploring the game world and
   your character and from failure as well as success
 
-= Equipment Needed
+#set heading(level: 1, numbering: "1.1")
 
-== For Players
-- One or more d12s
-- Paper and something to write with
-- _optionally_ a copy of the rules
-
-== For the Narrator
-- One or more d12s
+= Basic Equipment Needed
+- One or more d12s (more recommended)
 - Paper and something to write with
 - A copy of the rules
 
@@ -381,6 +390,6 @@ all of their chances.
 When the game ends the *Narrator* should provide players with a
 sense of closure and an opportunity to reflect on the game. For
 example, they might describe what happens to key non-player
-characters and how the players actions have impacted the larger
-game world.
+characters and how the player characters' actions have impacted
+the larger game world.
 ]
